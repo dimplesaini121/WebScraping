@@ -2,4 +2,3 @@ requests
 urlextract
 bs4
 sqlalchemy
-pytest
